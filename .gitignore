@@ -1,0 +1,20 @@
+# Apple trash files
+*.DS_Store
+
+#Vim trash
+*.swp
+*.swo
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
